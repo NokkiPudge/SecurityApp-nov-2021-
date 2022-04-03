@@ -1,0 +1,13 @@
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\bin\Release\SECURITYapp.exe.config
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\bin\Release\SECURITYapp.exe.manifest
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\bin\Release\SECURITYapp.application
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\bin\Release\SECURITYapp.exe
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\bin\Release\SECURITYapp.pdb
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.Form1.resources
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.Properties.Resources.resources
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.csproj.GenerateResource.cache
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.csproj.CoreCompileInputs.cache
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.exe.manifest
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.application
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.exe
+C:\Users\pidge\Desktop\C#+Arduino+DataBase\С#\Administraitor\SECURITYapp\obj\Release\SECURITYapp.pdb
